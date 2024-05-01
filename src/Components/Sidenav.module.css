@@ -1,0 +1,20 @@
+.Sidenav{
+    width:200px;
+    height:100vh;
+    padding:20px;
+    margin:20px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 10px whitesmoke;
+}
+.heading{
+    font-size:30px;
+}
+.button{
+    color:white;
+    background-color: rgb(74, 74, 238);
+    padding: 10px 45px 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 8px 8px -4px rgb(235, 179, 159); 
+    border:1px solid whitesmoke;
+}

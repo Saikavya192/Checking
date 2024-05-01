@@ -1,0 +1,16 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 10px;
+    height:150px;
+    width:420px;
+    text-align: center;
+    font-size: 13px;
+    background-color: rgb(255, 250, 250);
+  
+}
+.head{
+font-size: 20px;
+}
